@@ -74,7 +74,7 @@ class App extends React.Component {
             <NotificationContainer />
             {isMultiColorActive && <ColorSwitcher />}
             <Suspense fallback={<div className="loading" />}>
-              <Router basename="/reactjs-admin-dashboard-reedact/">
+              <Router basename={"/reactjs-admin-dashboard-reedact/"}>
                 <Switch>
                   <AuthRoute
                     path="/app"
@@ -105,6 +105,7 @@ class App extends React.Component {
     );
   }
 }
+
 
 const mapStateToProps = ({ authUser, settings }) => {
   const { user: loginUser } = authUser;

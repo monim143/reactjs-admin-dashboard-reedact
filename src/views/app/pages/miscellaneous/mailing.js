@@ -36,7 +36,7 @@ const Mailing = ({ match }) => {
                             <tbody>
                                 <tr>
                                     <td align="left" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
-                                        <img src="https://M A Monim.com/mailing/gogo.png" />
+                                        <img src="https://coloredstrategies.com/mailing/gogo.png" />
                                     </td>
                                     <td align="right" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
                                         <span style="color: #8f8f8f; font-weight: normal; line-height: 2; font-size: 14px;">02.02.2019</span>
@@ -99,7 +99,7 @@ const Mailing = ({ match }) => {
                                 <tr>
                                     <td align="center" valign="center">
                                         <p style="font-size: 12px; text-decoration: none;line-height: 1; color:#909090; margin-top:0px; margin-bottom:5px; ">
-                                            M A Monim Inc, 35 Little Russell St. Bloomsburg London,UK
+                                            MAMonim Inc, 35 Little Russell St. Bloomsburg London,UK
                                         </p>
                                         <p style="font-size: 12px; line-height:1; color:#909090;  margin-top:5px; margin-bottom:5px;">
                                             <a href="#" style="color: #922c88; text-decoration:none;">Privacy
@@ -120,7 +120,7 @@ const Mailing = ({ match }) => {
                             <tbody>
                                 <tr>
                                     <td align="left" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
-                                        <img src="https://M A Monim.com/mailing/gogo.png" />
+                                        <img src="https://coloredstrategies.com/mailing/gogo.png" />
                                     </td>
                                     <td align="right" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
                                         <span style="color: #8f8f8f; font-weight: normal; line-height: 2; font-size: 14px;">02.02.2019</span>
@@ -145,7 +145,7 @@ const Mailing = ({ match }) => {
                                             </tr>
                                             <tr>
                                                 <td style="padding-top:0px; padding-bottom:20px; width:140px ">
-                                                    <img src="https://M A Monim.com/mailing/product-1.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
+                                                    <img src="https://coloredstrategies.com/mailing/product-1.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
                                                 </td>
                                                 <td style="padding-top:0px; padding-bottom:20px;">
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:20px;"><a href="#"
@@ -166,7 +166,7 @@ const Mailing = ({ match }) => {
                                             </tr>
                                             <tr>
                                                 <td style="padding-top:0px; padding-bottom:20px; width:140px ">
-                                                    <img src="https://M A Monim.com/mailing/product-2.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
+                                                    <img src="https://coloredstrategies.com/mailing/product-2.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
                                                 </td>
                                                 <td style="padding-top:0px; padding-bottom:20px;">
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:20px;"><a href="#"
@@ -187,7 +187,7 @@ const Mailing = ({ match }) => {
                                             </tr>
                                             <tr>
                                                 <td style="padding-top:0px; padding-bottom:20px; width:140px ">
-                                                    <img src="https://M A Monim.com/mailing/product-3.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
+                                                    <img src="https://coloredstrategies.com/mailing/product-3.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
                                                 </td>
                                                 <td style="padding-top:0px; padding-bottom:20px;">
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:20px;"><a href="#"
@@ -208,7 +208,7 @@ const Mailing = ({ match }) => {
                                             </tr>
                                             <tr>
                                                 <td style="padding-top:0px; padding-bottom:20px; width:140px ">
-                                                    <img src="https://M A Monim.com/mailing/product-4.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
+                                                    <img src="https://coloredstrategies.com/mailing/product-4.jpg" style="width: 113px; height: 85px; object-fit: cover; border-radius: 3px; " />
                                                 </td>
                                                 <td style="padding-top:0px; padding-bottom:20px;">
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:20px;"><a href="#"
@@ -273,7 +273,7 @@ const Mailing = ({ match }) => {
                                 <tr>
                                     <td align="center" valign="center">
                                         <p style="font-size: 12px; text-decoration: none;line-height: 1; color:#909090; margin-top:0px; margin-bottom:5px; ">
-                                            M A Monim Inc, 35 Little Russell St. Bloomsburg London,UK
+                                            MAMonim Inc, 35 Little Russell St. Bloomsburg London,UK
                                         </p>
                                         <p style="font-size: 12px; line-height:1; color:#909090;  margin-top:5px; margin-bottom:5px;">
                                             <a href="#" style="color: #922c88; text-decoration:none;">Privacy
@@ -294,7 +294,7 @@ const Mailing = ({ match }) => {
                             <tbody>
                                 <tr>
                                     <td align="left" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
-                                        <img src="https://M A Monim.com/mailing/gogo.png" />
+                                        <img src="https://coloredstrategies.com/mailing/gogo.png" />
                                     </td>
                                     <td align="right" valign="center" style="padding-bottom:40px;border-top:0;height:100% !important;width:100% !important;">
                                         <span style="color: #8f8f8f; font-weight: normal; line-height: 2; font-size: 14px;">02.02.2019</span>
@@ -318,7 +318,7 @@ const Mailing = ({ match }) => {
                                                 <td style="padding-bottom: 30px;">
                                                     <a href="#">
                                                         <img style="max-width: 100%; object-fit: cover; border-radius: 3px; margin-bottom:5px;"
-                                                            src="https://dore-jquery.M A Monim.com/img/carousel-1.jpg" />
+                                                            src="https://dore-jquery.coloredstrategies.com/img/carousel-1.jpg" />
                                                     </a>
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:5px; margin-top: 10px;"><a
                                                             href="#" style="text-decoration: none; color:#303030; font-weight:500;">Distinctively
@@ -340,7 +340,7 @@ const Mailing = ({ match }) => {
                                                 <td style="padding-bottom: 30px;">
                                                     <a href="#">
                                                         <img style="max-width: 100%; object-fit: cover; border-radius: 3px; margin-bottom:5px;"
-                                                            src="https://dore-jquery.M A Monim.com/img/carousel-2.jpg" />
+                                                            src="https://dore-jquery.coloredstrategies.com/img/carousel-2.jpg" />
                                                     </a>
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:5px; margin-top: 10px;"><a
                                                             href="#" style="text-decoration: none; color:#303030; font-weight:500;">Assertively
@@ -362,7 +362,7 @@ const Mailing = ({ match }) => {
                                                 <td>
                                                     <a href="#">
                                                         <img style="max-width: 100%; object-fit: cover; border-radius: 3px; margin-bottom:5px;"
-                                                            src="https://dore-jquery.M A Monim.com/img/carousel-3.jpg" />
+                                                            src="https://dore-jquery.coloredstrategies.com/img/carousel-3.jpg" />
                                                     </a>
                                                     <h4 style="font-size: 16px; line-height: 1; margin-bottom:5px; margin-top: 10px;"><a
                                                             href="#" style="text-decoration: none; color:#303030; font-weight:500;">Objectively
@@ -388,7 +388,7 @@ const Mailing = ({ match }) => {
                                 <tr>
                                     <td align="center" valign="center">
                                         <p style="font-size: 12px; text-decoration: none;line-height: 1; color:#909090; margin-top:0px; margin-bottom:5px; ">
-                                            M A Monim Inc, 35 Little Russell St. Bloomsburg London,UK
+                                            MAMonim Inc, 35 Little Russell St. Bloomsburg London,UK
                                         </p>
                                         <p style="font-size: 12px; line-height:1; color:#909090;  margin-top:5px; margin-bottom:5px;">
                                             <a href="#" style="color: #922c88; text-decoration:none;">Privacy

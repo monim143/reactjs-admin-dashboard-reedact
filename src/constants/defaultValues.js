@@ -15,15 +15,15 @@ export const localeOptions = [
 
 export const firebaseConfig = {
   apiKey: 'AIzaSyBBksq-Asxq2M4Ot-75X19IyrEYJqNBPcg',
-  authDomain: 'mamonim-react-login.firebaseapp.com',
-  databaseURL: 'https://mamonim-react-login.firebaseio.com',
-  projectId: 'mamonim-react-login',
-  storageBucket: 'mamonim-react-login.appspot.com',
+  authDomain: 'reedact-react-login.firebaseapp.com',
+  databaseURL: 'https://reedact-react-login.firebaseio.com',
+  projectId: 'reedact-react-login',
+  storageBucket: 'reedact-react-login.appspot.com',
   messagingSenderId: '216495999563',
 };
 
 export const searchPath = '/app/pages/miscellaneous/search';
-export const servicePath = 'https://monim143.github.io/';
+export const servicePath = 'https://api.mamonim.com';
 
 export const themeColorStorageKey = '__theme_selected_color';
 export const isMultiColorActive = true;

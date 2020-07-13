@@ -25,7 +25,7 @@ const ForgotPassword = ({
   error,
   forgotPasswordAction,
 }) => {
-  const [email] = useState('demo@M A Monim.com');
+  const [email] = useState('demo@mamonim.com');
 
   const onForgotPassword = (values) => {
     if (!loading) {

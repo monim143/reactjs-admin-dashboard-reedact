@@ -31,16 +31,9 @@ const data = [
     id: 'pages',
     icon: 'iconsminds-digital-drawing',
     label: 'menu.pages',
-    to: '/app/pages',
+    to: '/app/pages', 
     subs: [
-      {
-        id: 'pages-authorization',
-        label: 'menu.authorization',
-        to: '/user',
-        subs: [
 
-        ],
-      },
       {
         id: 'pages-product',
         label: 'menu.product',
@@ -107,7 +100,6 @@ const data = [
           },
         ],
       },
-
       {
         id: 'pages-miscellaneous',
         label: 'menu.miscellaneous',
@@ -145,6 +137,12 @@ const data = [
             to: '/app/pages/miscellaneous/invoice',
           },
 
+          {
+            icon: 'simple-icon-exclamation',
+            label: 'menu.error',
+            to: '/error',
+            newWindow: true,
+          },
         ],
       },
     ],
@@ -350,7 +348,7 @@ const data = [
     id: 'docs',
     icon: 'iconsminds-library',
     label: 'menu.docs',
-    to: 'https://monim143.github.io/',
+    to: '',
     newWindow: true,
   },
 ];

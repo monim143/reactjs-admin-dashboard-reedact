@@ -1,4 +1,4 @@
-/* Reedact Textos de Lenguaje
+/* Gogo Textos de Lenguaje
 
 Tabla de Contenido
 
