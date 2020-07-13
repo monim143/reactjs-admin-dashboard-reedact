@@ -1,0 +1,2 @@
+(this["webpackJsonpreedact-react"]=this["webpackJsonpreedact-react"]||[]).push([[85],{1057:function(e,t,a){"use strict";a.r(t);var c=a(6),r=a.n(c),n=a(129);t.default=function(){return r.a.createElement(n.a,{to:"/app"})}}}]);
+//# sourceMappingURL=views.8c7d1d4c.chunk.js.map
