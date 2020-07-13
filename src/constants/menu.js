@@ -107,6 +107,7 @@ const data = [
           },
         ],
       },
+
       {
         id: 'pages-miscellaneous',
         label: 'menu.miscellaneous',

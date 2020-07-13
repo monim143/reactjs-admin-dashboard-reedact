@@ -401,7 +401,7 @@ class Sidebar extends Component {
                               key={`${item.id}_${index}`}
                               className={`${
                                 sub.subs && sub.subs.length > 0
-                                  ? 'has-sub-item'
+                                  ? 'has-sub-item' 
                                   : ''
                               }`}
                             >
