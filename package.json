@@ -12,7 +12,7 @@
     "classnames": "2.2.6",
     "firebase": "^7.16.0",
     "formik": "^2.1.4",
-    "moment": "2.26.0",
+    "moment": "2.29.4",
     "mousetrap": "^1.6.5",
     "prop-types": "^15.7.2",
     "rc-slider": "^9.3.1",
